@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">StrokeChange</string>
+    <string name="tv_take_photo">Take photo</string>
+    <string name="tv_description">Select a preset image or take a new photo</string>
+    <string name="tv_placeholder">Stroke Change</string>
+    <string name="eye_regression_model">eye-regression.tflite</string>
+    <string name="mouth_regression_model">mouth-regression.tflite</string>
+    <string name="object_detector_model">eye-mouth-detector.tflite</string>
+    <string name="save_image">Save</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="report">Report</string>
+    <string name="home">Home</string>
+    <string name="info">Information</string>
+    <string name="how_to_use">About</string>
+    <string name="tag_line">This is an Android application of Facial Region Detection to Regression model to detect severity of Stroke in Stroke patients</string>
+    <string name="info_home">In the home page you can click on \'Take a Photo\' to take photo of your face. Once the photo is captured and you click \'OK\' application will process the image and estimate the severity of stroke for Eye and Mouth. You can save this image or take a screenshot to share it with your doctor. Note that the image should be a close up selfie with good light, for better results.</string>
+    <string name="info_home_title">HOME</string>
+    <string name="info_report_title">REPORT</string>
+    <string name="info_report">You can view the graph of Severity under \'Report\'. The graph contains severity of Eye and Mouth based on images captured till date. This will be helpful in noticing the changes in stroke over a period of time. If the slope is increasing then Stroke is getting severe and if the slope is dropping then you are recovering. You can also take a screenshot of this report and share with your doctor.</string>
+    <string name="save_pdf">Save as Pdf</string>
+</resources>
